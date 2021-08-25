@@ -1,6 +1,6 @@
 # Hoja de vida 
 
-<img src="imagenes/fotojosi.jpg" alt"fotojosi" width="100">
+<img src="fotos/fotojosi" alt"fotojosi" width="100">
 
 ## josymar peña moscote
 
