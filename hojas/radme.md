@@ -1,8 +1,8 @@
 # Hoja de vida 
 
+<img src="(imagenes/foto.jpg)" width="100">
 
 
-![imanen](imagenes/foto.jpg)
 
 ## josymar peña moscote
 
