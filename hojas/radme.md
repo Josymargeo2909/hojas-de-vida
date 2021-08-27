@@ -1,6 +1,6 @@
 # Hoja de vida 
 
-![avatar](imagenes/foto.jpg)
+![avatar](fotojs.png)
 
 
 
