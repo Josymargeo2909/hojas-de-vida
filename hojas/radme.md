@@ -1,6 +1,6 @@
 # Hoja de vida 
 
-![avatar](fotojs.png)
+![imanen](hojas/fotojs.png)
 
 
 
